@@ -6,7 +6,7 @@ Building a simple website with LiveTerm only takes **minutes**, and you only nee
 
 LiveTerm can be used to build a variety of websites:
 
-- [personal website](https://cveinnt.com)
+- [personal website](https://darvinpatel.com)
 - [browser startpage](https://livetermstart.vercel.app/)
 - [project page](https://liveterm.vercel.app/)
 - or maybe just a cool browser music player...be creative!
@@ -21,7 +21,7 @@ Feel free to play with the web demo above!
 </p>
 
 <p align="center">
-<img src="./demo/cveinnt.png" width="600"><br>
+<img src="./demo/darvinpatel.png" width="600"><br>
 <strong><a href="https://darvinpatel.com" target=_blank>my personal website</a></strong>
 </p>
 
